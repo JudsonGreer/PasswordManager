@@ -1,6 +1,5 @@
 # PasswordManager
 Java HashMap Password Manager
 
-implements a HashMap in Java. Master password was used to access accounts and passwords.
-User could input and delete passwords, edit passwords, check number of accounts, check for duplicate passwords,
-and generate random, secure passwords.
+Text based password manager in Java. Master password is used to access accounts and passwords.
+User can input and delete passwords, edit passwords, check number of accounts, check for duplicate passwords,and generate random, secure passwords.
